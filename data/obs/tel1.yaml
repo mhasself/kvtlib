@@ -1,0 +1,14 @@
+domain: 'so_obsdb.sat1'
+data:
+  - time_range: ['2022-03-01 06:00', '2022-03-01 07:00']
+    values:
+      tags: "planet,uranus"
+  - time_range: ['2022-03-01 07:00', '2022-03-02 06:00']
+    values:
+      tags: "survey"
+  - time_range: ['2022-03-02 06:00', '2022-03-02 07:00']
+    values:
+      tags: "planet,uranus"
+  - time_range: ['2022-03-01 09:00', '2022-03-02 09:30']
+    values:
+      add_tags: "drone"

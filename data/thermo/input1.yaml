@@ -1,0 +1,17 @@
+domain: 'so_hk.labs.yale.observatory.therm1.feeds.data'
+data:
+  - time_range: ['2022-01-01', '2022-02-01']
+    values:
+#      ch1: 'diode999'
+      "ch1 asdf": 'diode999 asdfasdf'
+  - time_range: ['2022-02-01', '2022-02-10']
+    values:
+      ch1: 'diode990'
+  - time_range: ['2022-02-10', '2022-02-18']
+    values:
+      ch1: 'diode990'
+      ch2: 'diode232'
+  - time_range: ['2022-02-18', '2022-02-21 6:00']
+    values:
+      ch1: 'diode231'
+      ch2: 'diode232'

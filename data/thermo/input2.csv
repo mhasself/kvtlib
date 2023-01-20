@@ -1,0 +1,4 @@
+domain,start,end,key,value
+so_hk.labs.yale.observatory.therm1.feeds.data,"2022-02-21 6:00","2022-03-01",,
+,,,ch1,diode232
+,,,ch2,diode231
